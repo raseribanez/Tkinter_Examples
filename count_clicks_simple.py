@@ -1,3 +1,8 @@
+# Ben Woodfield
+# This is an example of a Tkinter function to count Button clicks
+# Works over multiple buttons
+
+# For Python 3 change (Tkinter) to (tkinter)
 from Tkinter import *
 
 top = Tk()
