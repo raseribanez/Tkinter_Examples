@@ -9,9 +9,9 @@ I am trying to cover as much as I can in Tkinter,
 then move on to Tix - a module that extends the Tk toolkit massively
 
 A lot of the stuff included is my own method af doing things within my
-tkinter applications, but there may be the odd example I have come across
-when I have been stuck on a particular thing - I always leave credits
-where due
+tkinter applications, There is a few in here that are just examples of 
+how to use a particular widget - some I just grabbed from different sources 
+and stuck in one place for my own reference
 
 I hope that if you end up here, there is something helpful
 Or, if you are here by following my Tutorial videos and pages,
